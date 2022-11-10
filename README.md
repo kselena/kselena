@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kselena
+- 👋 Hi, I’m Kristen!
 - 👀 I’m interested in traveling and learning foreign languages
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: kswilky@gmail.com
