@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kristen!
 - 👀 I’m interested in traveling and learning foreign languages
-- 🌱 I’m currently learning C#
 - 📫 How to reach me: kswilky@gmail.com
 
 <!---
